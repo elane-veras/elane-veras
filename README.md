@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/122480794/212552530-d57f1e0c-216c-4a64-a76c-16010790876b.png)
+n![banner (1)](https://user-images.githubusercontent.com/122480794/212552530-d57f1e0c-216c-4a64-a76c-16010790876b.png)
 
 
 <h2 align="center">✨Redes Sociais✨</h2>
@@ -28,11 +28,7 @@ target="_blank"><img src="https://img.shields.io/badge/Behance-f0658b?style=for-
 </p>
 
 
-<div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 <div align="center">
   <p>Feito com :heart:.</p>
