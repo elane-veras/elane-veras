@@ -19,3 +19,9 @@ target="_blank"><img src="https://img.shields.io/badge/Behance-f0658b?style=for-
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elane-veras&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+<br><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,ae,figma,ps," />
+  </a>
+</p>
