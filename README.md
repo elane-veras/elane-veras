@@ -25,3 +25,15 @@ target="_blank"><img src="https://img.shields.io/badge/Behance-f0658b?style=for-
     <img src="https://skillicons.dev/icons?i=html,js,css,ae,figma,ps," />
   </a>
 </p>
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart:.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
